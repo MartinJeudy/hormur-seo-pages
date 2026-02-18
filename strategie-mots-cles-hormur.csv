@@ -1,0 +1,209 @@
+Rang,Mot-clé,URL suggérée,Audience cible,Intention de recherche,Volume estimé,Difficulté SEO,Priorité (1-5),Catégorie,Page à créer
+1,concert privé à domicile,/concert-prive-a-domicile,Spectateurs,Transactionnelle,Élevé,Moyenne,5,Spectacle à domicile,OUI
+2,spectacle à domicile,/spectacle-a-domicile,Spectateurs,Transactionnelle,Élevé,Moyenne,5,Spectacle à domicile,OUI
+3,sortir à paris,/sortir-a-paris,Spectateurs,Navigationnelle,Très élevé,Très haute,5,Sorties par ville,OUI
+4,concert intime paris,/concert-intime-paris,Spectateurs,Transactionnelle,Moyen,Faible,5,Concerts intimes,OUI
+5,spectacle chez l'habitant,/spectacle-chez-habitant,Spectateurs,Transactionnelle,Moyen,Très faible,5,Spectacle à domicile,OUI
+6,idée sortie originale paris,/idee-sortie-originale-paris,Spectateurs,Informationnelle,Élevé,Haute,5,Sorties par ville,OUI
+7,concert appartement paris,/concert-appartement-paris,Spectateurs,Transactionnelle,Moyen,Très faible,5,Concerts intimes,OUI
+8,spectacle privé,/spectacle-prive,Spectateurs,Transactionnelle,Moyen,Faible,5,Spectacle à domicile,OUI
+9,organiser concert chez soi,/organiser-concert-chez-soi,Hôtes,Informationnelle,Moyen,Faible,5,Hôtes,OUI
+10,accueillir artiste chez soi,/accueillir-artiste-chez-soi,Hôtes,Informationnelle,Faible,Très faible,5,Hôtes,OUI
+11,trouver un artiste pour événement,/trouver-artiste-evenement,Spectateurs,Transactionnelle,Moyen,Moyenne,5,Artistes,OUI
+12,musicien pour soirée privée,/musicien-soiree-privee,Spectateurs,Transactionnelle,Élevé,Haute,5,Artistes,OUI
+13,spectacles paris ce weekend,/spectacles-paris-ce-weekend,Spectateurs,Navigationnelle,Très élevé,Très haute,5,Sorties par ville,OUI
+14,concert acoustique paris,/concert-acoustique-paris,Spectateurs,Transactionnelle,Moyen,Faible,5,Concerts intimes,OUI
+15,sortie insolite paris,/sortie-insolite-paris,Spectateurs,Informationnelle,Élevé,Haute,5,Sorties par ville,OUI
+16,spectacle à domicile paris,/spectacle-a-domicile-paris,Spectateurs,Transactionnelle,Moyen,Faible,5,Spectacle à domicile,OUI
+17,concert privé paris,/concert-prive-paris,Spectateurs,Transactionnelle,Moyen,Moyenne,5,Concerts intimes,OUI
+18,réserver artiste pour anniversaire,/reserver-artiste-anniversaire,Spectateurs,Transactionnelle,Moyen,Moyenne,4,Occasions,OUI
+19,spectacle à domicile clown,/spectacle-a-domicile-clown,Spectateurs,Transactionnelle,Faible,Très faible,4,Spectacle à domicile,OUI
+20,spectacle à domicile marionnette,/spectacle-a-domicile-marionnette,Spectateurs,Transactionnelle,Faible,Très faible,4,Spectacle à domicile,OUI
+21,expo en appartement,/expo-en-appartement,Spectateurs,Transactionnelle,Faible,Très faible,4,Expériences artistiques,OUI
+22,que faire ce weekend paris,/que-faire-ce-weekend-paris,Spectateurs,Informationnelle,Très élevé,Très haute,4,Sorties par ville,OUI
+23,concert chez l'habitant,/concert-chez-habitant,Spectateurs,Transactionnelle,Moyen,Très faible,4,Concerts intimes,OUI
+24,artiste pour mariage,/artiste-pour-mariage,Spectateurs,Transactionnelle,Élevé,Haute,4,Occasions,OUI
+25,lieu atypique pour événement paris,/lieu-atypique-evenement-paris,Hôtes/Spectateurs,Transactionnelle,Moyen,Haute,4,Lieux,OUI
+26,devenir hôte concert privé,/devenir-hote-concert-prive,Hôtes,Informationnelle,Faible,Très faible,4,Hôtes,OUI
+27,sortir à lyon,/sortir-a-lyon,Spectateurs,Navigationnelle,Élevé,Haute,4,Sorties par ville,OUI
+28,artiste pour événement entreprise,/artiste-evenement-entreprise,Spectateurs,Transactionnelle,Moyen,Moyenne,4,Occasions,OUI
+29,concert salon paris,/concert-salon-paris,Spectateurs,Transactionnelle,Faible,Très faible,4,Concerts intimes,OUI
+30,spectacle immersif paris,/spectacle-immersif-paris,Spectateurs,Transactionnelle,Moyen,Moyenne,4,Expériences artistiques,OUI
+31,sortir à bordeaux,/sortir-a-bordeaux,Spectateurs,Navigationnelle,Élevé,Haute,4,Sorties par ville,NON
+32,sortir à marseille,/sortir-a-marseille,Spectateurs,Navigationnelle,Élevé,Haute,4,Sorties par ville,NON
+33,sortir à toulouse,/sortir-a-toulouse,Spectateurs,Navigationnelle,Élevé,Haute,4,Sorties par ville,NON
+34,sortir à nantes,/sortir-a-nantes,Spectateurs,Navigationnelle,Élevé,Haute,4,Sorties par ville,NON
+35,sortir à lille,/sortir-a-lille,Spectateurs,Navigationnelle,Élevé,Haute,4,Sorties par ville,NON
+36,sortir à strasbourg,/sortir-a-strasbourg,Spectateurs,Navigationnelle,Élevé,Haute,3,Sorties par ville,NON
+37,sortir à montpellier,/sortir-a-montpellier,Spectateurs,Navigationnelle,Élevé,Haute,3,Sorties par ville,NON
+38,sortir à nice,/sortir-a-nice,Spectateurs,Navigationnelle,Élevé,Haute,3,Sorties par ville,NON
+39,sortir à rennes,/sortir-a-rennes,Spectateurs,Navigationnelle,Moyen,Haute,3,Sorties par ville,NON
+40,concert jazz intime paris,/concert-jazz-intime-paris,Spectateurs,Transactionnelle,Faible,Faible,3,Genre musical,NON
+41,concert jazz privé,/concert-jazz-prive,Spectateurs,Transactionnelle,Faible,Faible,3,Genre musical,NON
+42,concert pop rock privé,/concert-pop-rock-prive,Spectateurs,Transactionnelle,Faible,Faible,3,Genre musical,NON
+43,concert classique salon,/concert-classique-salon,Spectateurs,Transactionnelle,Faible,Très faible,3,Genre musical,NON
+44,musicien jazz pour soirée,/musicien-jazz-soiree,Spectateurs,Transactionnelle,Moyen,Moyenne,3,Genre musical,NON
+45,groupe musique soirée privée paris,/groupe-musique-soiree-privee-paris,Spectateurs,Transactionnelle,Moyen,Haute,3,Artistes,NON
+46,DJ pour soirée privée,/dj-soiree-privee,Spectateurs,Transactionnelle,Élevé,Haute,3,Artistes,NON
+47,chanteur pour événement,/chanteur-pour-evenement,Spectateurs,Transactionnelle,Moyen,Moyenne,3,Artistes,NON
+48,pianiste pour soirée,/pianiste-pour-soiree,Spectateurs,Transactionnelle,Moyen,Moyenne,3,Artistes,NON
+49,violoniste pour événement,/violoniste-pour-evenement,Spectateurs,Transactionnelle,Faible,Faible,3,Artistes,NON
+50,guitariste pour soirée,/guitariste-pour-soiree,Spectateurs,Transactionnelle,Faible,Moyenne,3,Artistes,NON
+51,spectacle enfant à domicile,/spectacle-enfant-a-domicile,Spectateurs,Transactionnelle,Moyen,Faible,3,Spectacle à domicile,NON
+52,animation musicale anniversaire,/animation-musicale-anniversaire,Spectateurs,Transactionnelle,Moyen,Haute,3,Occasions,NON
+53,musique live anniversaire,/musique-live-anniversaire,Spectateurs,Transactionnelle,Moyen,Moyenne,3,Occasions,NON
+54,concert privé anniversaire,/concert-prive-anniversaire,Spectateurs,Transactionnelle,Faible,Faible,3,Occasions,NON
+55,spectacle mariage,/spectacle-mariage,Spectateurs,Transactionnelle,Moyen,Haute,3,Occasions,NON
+56,animation soirée entreprise,/animation-soiree-entreprise,Spectateurs,Transactionnelle,Élevé,Très haute,3,Occasions,NON
+57,team building musical,/team-building-musical,Spectateurs,Transactionnelle,Moyen,Moyenne,3,Occasions,NON
+58,spectacle soirée entreprise,/spectacle-soiree-entreprise,Spectateurs,Transactionnelle,Moyen,Moyenne,3,Occasions,NON
+59,artiste pour soirée d'entreprise,/artiste-soiree-entreprise,Spectateurs,Transactionnelle,Moyen,Moyenne,3,Occasions,NON
+60,expérience musicale unique,/experience-musicale-unique,Spectateurs,Informationnelle,Faible,Très faible,3,Expériences artistiques,NON
+61,soirée musicale entre amis,/soiree-musicale-entre-amis,Spectateurs,Informationnelle,Faible,Très faible,3,Expériences artistiques,NON
+62,concert surprise,/concert-surprise,Spectateurs,Informationnelle,Faible,Très faible,3,Expériences artistiques,NON
+63,offrir un concert privé,/offrir-concert-prive,Spectateurs,Transactionnelle,Faible,Très faible,3,Occasions,NON
+64,cadeau concert privé,/cadeau-concert-prive,Spectateurs,Transactionnelle,Faible,Très faible,3,Occasions,NON
+65,idée cadeau musique live,/idee-cadeau-musique-live,Spectateurs,Informationnelle,Faible,Faible,3,Occasions,NON
+66,spectacle à domicile enfant paris,/spectacle-a-domicile-enfant-paris,Spectateurs,Transactionnelle,Faible,Faible,3,Spectacle à domicile,NON
+67,magicien à domicile,/magicien-a-domicile,Spectateurs,Transactionnelle,Moyen,Moyenne,3,Spectacle à domicile,NON
+68,spectacle à domicile magie,/spectacle-a-domicile-magie,Spectateurs,Transactionnelle,Faible,Faible,3,Spectacle à domicile,NON
+69,artiste de rue paris,/artiste-de-rue-paris,Spectateurs,Informationnelle,Moyen,Moyenne,3,Artistes,NON
+70,scène ouverte paris,/scene-ouverte-paris,Spectateurs,Navigationnelle,Moyen,Moyenne,3,Concerts intimes,NON
+71,open mic paris,/open-mic-paris,Spectateurs,Navigationnelle,Moyen,Moyenne,3,Concerts intimes,NON
+72,petit concert paris,/petit-concert-paris,Spectateurs,Transactionnelle,Faible,Faible,3,Concerts intimes,NON
+73,concert unplugged paris,/concert-unplugged-paris,Spectateurs,Transactionnelle,Faible,Très faible,3,Concerts intimes,NON
+74,bar concert paris,/bar-concert-paris,Spectateurs,Transactionnelle,Élevé,Haute,3,Lieux,NON
+75,café concert paris,/cafe-concert-paris,Spectateurs,Transactionnelle,Élevé,Haute,3,Lieux,NON
+76,lieu concert intimiste paris,/lieu-concert-intimiste-paris,Spectateurs,Transactionnelle,Faible,Faible,3,Lieux,NON
+77,salle petite jauge paris,/salle-petite-jauge-paris,Spectateurs,Informationnelle,Faible,Faible,3,Lieux,NON
+78,concert rooftop paris,/concert-rooftop-paris,Spectateurs,Transactionnelle,Faible,Moyenne,3,Lieux,NON
+79,concert péniche paris,/concert-peniche-paris,Spectateurs,Transactionnelle,Faible,Faible,3,Lieux,NON
+80,chercher lieu pour concert,/chercher-lieu-pour-concert,Artistes,Transactionnelle,Faible,Très faible,3,Artistes - Lieux,NON
+81,trouver scène pour concert,/trouver-scene-pour-concert,Artistes,Transactionnelle,Faible,Très faible,3,Artistes - Lieux,NON
+82,jouer chez l'habitant,/jouer-chez-habitant,Artistes,Transactionnelle,Faible,Très faible,3,Artistes - Lieux,NON
+83,trouver des dates de concert,/trouver-dates-concert,Artistes,Transactionnelle,Faible,Faible,3,Artistes - Lieux,NON
+84,plateforme booking artiste,/plateforme-booking-artiste,Artistes,Transactionnelle,Faible,Moyenne,3,Artistes - Lieux,NON
+85,se produire en concert privé,/se-produire-concert-prive,Artistes,Informationnelle,Faible,Très faible,3,Artistes - Lieux,NON
+86,louer son appartement pour concert,/louer-appartement-pour-concert,Hôtes,Transactionnelle,Faible,Très faible,3,Hôtes,NON
+87,prêter son salon pour spectacle,/preter-salon-spectacle,Hôtes,Informationnelle,Faible,Très faible,3,Hôtes,NON
+88,accueillir un spectacle chez soi,/accueillir-spectacle-chez-soi,Hôtes,Informationnelle,Faible,Très faible,3,Hôtes,NON
+89,hôte concert privé rémunération,/hote-concert-prive-remuneration,Hôtes,Informationnelle,Faible,Très faible,3,Hôtes,NON
+90,comment devenir hôte artistique,/comment-devenir-hote-artistique,Hôtes,Informationnelle,Faible,Très faible,3,Hôtes,NON
+91,concert intime lyon,/concert-intime-lyon,Spectateurs,Transactionnelle,Faible,Faible,3,Sorties par ville,NON
+92,concert intime bordeaux,/concert-intime-bordeaux,Spectateurs,Transactionnelle,Faible,Faible,3,Sorties par ville,NON
+93,concert intime marseille,/concert-intime-marseille,Spectateurs,Transactionnelle,Faible,Faible,3,Sorties par ville,NON
+94,spectacle à domicile lyon,/spectacle-a-domicile-lyon,Spectateurs,Transactionnelle,Faible,Très faible,3,Spectacle à domicile,NON
+95,spectacle à domicile bordeaux,/spectacle-a-domicile-bordeaux,Spectateurs,Transactionnelle,Faible,Très faible,3,Spectacle à domicile,NON
+96,spectacle à domicile marseille,/spectacle-a-domicile-marseille,Spectateurs,Transactionnelle,Faible,Très faible,3,Spectacle à domicile,NON
+97,expérience artistique immersive,/experience-artistique-immersive,Spectateurs,Informationnelle,Faible,Faible,3,Expériences artistiques,NON
+98,soirée culturelle privée,/soiree-culturelle-privee,Spectateurs,Informationnelle,Faible,Très faible,2,Expériences artistiques,NON
+99,événement culturel chez l'habitant,/evenement-culturel-chez-habitant,Spectateurs,Informationnelle,Faible,Très faible,2,Expériences artistiques,NON
+100,performance artistique à domicile,/performance-artistique-domicile,Spectateurs,Transactionnelle,Faible,Très faible,2,Spectacle à domicile,NON
+101,concert privé à domicile lyon,/concert-prive-a-domicile-lyon,Spectateurs,Transactionnelle,Faible,Très faible,2,Spectacle à domicile,NON
+102,concert privé à domicile bordeaux,/concert-prive-a-domicile-bordeaux,Spectateurs,Transactionnelle,Faible,Très faible,2,Spectacle à domicile,NON
+103,concert privé à domicile marseille,/concert-prive-a-domicile-marseille,Spectateurs,Transactionnelle,Faible,Très faible,2,Spectacle à domicile,NON
+104,spectacle privé paris,/spectacle-prive-paris,Spectateurs,Transactionnelle,Faible,Faible,2,Spectacle à domicile,NON
+105,musique live chez soi,/musique-live-chez-soi,Spectateurs,Informationnelle,Faible,Très faible,2,Spectacle à domicile,NON
+106,musicien pour cocktail,/musicien-pour-cocktail,Spectateurs,Transactionnelle,Moyen,Moyenne,2,Occasions,NON
+107,musicien pour vernissage,/musicien-pour-vernissage,Spectateurs,Transactionnelle,Faible,Faible,2,Occasions,NON
+108,artiste pour baptême,/artiste-pour-bapteme,Spectateurs,Transactionnelle,Faible,Faible,2,Occasions,NON
+109,musicien pour pot de départ,/musicien-pot-de-depart,Spectateurs,Transactionnelle,Faible,Très faible,2,Occasions,NON
+110,spectacle saint-valentin paris,/spectacle-saint-valentin-paris,Spectateurs,Transactionnelle,Moyen,Moyenne,2,Occasions saisonnières,NON
+111,concert saint-valentin,/concert-saint-valentin,Spectateurs,Transactionnelle,Faible,Faible,2,Occasions saisonnières,NON
+112,spectacle noël à domicile,/spectacle-noel-a-domicile,Spectateurs,Transactionnelle,Moyen,Faible,2,Occasions saisonnières,NON
+113,animation musicale noël,/animation-musicale-noel,Spectateurs,Transactionnelle,Moyen,Moyenne,2,Occasions saisonnières,NON
+114,concert nouvel an privé,/concert-nouvel-an-prive,Spectateurs,Transactionnelle,Faible,Faible,2,Occasions saisonnières,NON
+115,fête de la musique privée,/fete-musique-privee,Spectateurs,Transactionnelle,Faible,Très faible,2,Occasions saisonnières,NON
+116,concert été rooftop,/concert-ete-rooftop,Spectateurs,Transactionnelle,Faible,Faible,2,Occasions saisonnières,NON
+117,soirée acoustique,/soiree-acoustique,Spectateurs,Informationnelle,Faible,Faible,2,Concerts intimes,NON
+118,concert chanson française privé,/concert-chanson-francaise-prive,Spectateurs,Transactionnelle,Faible,Très faible,2,Genre musical,NON
+119,concert soul funk privé,/concert-soul-funk-prive,Spectateurs,Transactionnelle,Faible,Très faible,2,Genre musical,NON
+120,concert electro intime,/concert-electro-intime,Spectateurs,Transactionnelle,Faible,Très faible,2,Genre musical,NON
+121,concert world music paris,/concert-world-music-paris,Spectateurs,Transactionnelle,Faible,Faible,2,Genre musical,NON
+122,concert hip hop intime,/concert-hip-hop-intime,Spectateurs,Transactionnelle,Faible,Très faible,2,Genre musical,NON
+123,spectacle humour à domicile,/spectacle-humour-a-domicile,Spectateurs,Transactionnelle,Faible,Très faible,2,Spectacle à domicile,NON
+124,one man show à domicile,/one-man-show-a-domicile,Spectateurs,Transactionnelle,Faible,Très faible,2,Spectacle à domicile,NON
+125,conteur à domicile,/conteur-a-domicile,Spectateurs,Transactionnelle,Faible,Très faible,2,Spectacle à domicile,NON
+126,spectacle de danse à domicile,/spectacle-danse-a-domicile,Spectateurs,Transactionnelle,Faible,Très faible,2,Spectacle à domicile,NON
+127,poésie vivante à domicile,/poesie-vivante-a-domicile,Spectateurs,Informationnelle,Très faible,Très faible,2,Spectacle à domicile,NON
+128,théâtre à domicile,/theatre-a-domicile,Spectateurs,Transactionnelle,Faible,Très faible,2,Spectacle à domicile,NON
+129,spectacle cirque à domicile,/spectacle-cirque-a-domicile,Spectateurs,Transactionnelle,Faible,Très faible,2,Spectacle à domicile,NON
+130,concert privé tarif,/concert-prive-tarif,Spectateurs,Informationnelle,Moyen,Faible,2,Informationnelle,NON
+131,prix musicien soirée privée,/prix-musicien-soiree-privee,Spectateurs,Informationnelle,Moyen,Moyenne,2,Informationnelle,NON
+132,combien coûte un concert privé,/combien-coute-concert-prive,Spectateurs,Informationnelle,Moyen,Moyenne,2,Informationnelle,NON
+133,comment organiser une soirée musicale,/comment-organiser-soiree-musicale,Spectateurs/Hôtes,Informationnelle,Faible,Faible,2,Informationnelle,NON
+134,meilleurs artistes pour soirée privée,/meilleurs-artistes-soiree-privee,Spectateurs,Informationnelle,Faible,Faible,2,Informationnelle,NON
+135,alternative sortie bar paris,/alternative-sortie-bar-paris,Spectateurs,Informationnelle,Faible,Très faible,2,Sorties par ville,NON
+136,activité originale entre amis paris,/activite-originale-entre-amis-paris,Spectateurs,Informationnelle,Moyen,Haute,2,Sorties par ville,NON
+137,soirée privée animation,/soiree-privee-animation,Spectateurs,Transactionnelle,Moyen,Haute,2,Occasions,NON
+138,événement privé artiste,/evenement-prive-artiste,Spectateurs,Transactionnelle,Faible,Faible,2,Occasions,NON
+139,spectacle pour résidence seniors,/spectacle-residence-seniors,Spectateurs,Transactionnelle,Faible,Faible,2,Occasions,NON
+140,concert pour ehpad,/concert-pour-ehpad,Spectateurs,Transactionnelle,Faible,Faible,2,Occasions,NON
+141,musicien pour crémaillère,/musicien-pour-cremaillere,Spectateurs,Transactionnelle,Faible,Très faible,2,Occasions,NON
+142,spectacle garden party,/spectacle-garden-party,Spectateurs,Transactionnelle,Faible,Très faible,2,Occasions,NON
+143,musicien pour brunch,/musicien-pour-brunch,Spectateurs,Transactionnelle,Faible,Très faible,2,Occasions,NON
+144,concert pour baby shower,/concert-pour-baby-shower,Spectateurs,Transactionnelle,Faible,Très faible,2,Occasions,NON
+145,musicien pour fiançailles,/musicien-pour-fiancailles,Spectateurs,Transactionnelle,Faible,Très faible,2,Occasions,NON
+146,spectacle pour comité d'entreprise,/spectacle-comite-entreprise,Spectateurs,Transactionnelle,Moyen,Moyenne,2,Occasions,NON
+147,concert pour séminaire,/concert-pour-seminaire,Spectateurs,Transactionnelle,Faible,Moyenne,2,Occasions,NON
+148,spectacle à domicile nantes,/spectacle-a-domicile-nantes,Spectateurs,Transactionnelle,Faible,Très faible,2,Spectacle à domicile,NON
+149,spectacle à domicile toulouse,/spectacle-a-domicile-toulouse,Spectateurs,Transactionnelle,Faible,Très faible,2,Spectacle à domicile,NON
+150,spectacle à domicile lille,/spectacle-a-domicile-lille,Spectateurs,Transactionnelle,Faible,Très faible,2,Spectacle à domicile,NON
+151,concert intime nantes,/concert-intime-nantes,Spectateurs,Transactionnelle,Faible,Très faible,2,Sorties par ville,NON
+152,concert intime toulouse,/concert-intime-toulouse,Spectateurs,Transactionnelle,Faible,Très faible,2,Sorties par ville,NON
+153,concert intime lille,/concert-intime-lille,Spectateurs,Transactionnelle,Faible,Très faible,2,Sorties par ville,NON
+154,concert intime nice,/concert-intime-nice,Spectateurs,Transactionnelle,Faible,Très faible,2,Sorties par ville,NON
+155,concert intime strasbourg,/concert-intime-strasbourg,Spectateurs,Transactionnelle,Faible,Très faible,2,Sorties par ville,NON
+156,concert intime montpellier,/concert-intime-montpellier,Spectateurs,Transactionnelle,Faible,Très faible,2,Sorties par ville,NON
+157,concert intime rennes,/concert-intime-rennes,Spectateurs,Transactionnelle,Faible,Très faible,2,Sorties par ville,NON
+158,plateforme concerts privés,/plateforme-concerts-prives,Spectateurs,Transactionnelle,Faible,Très faible,2,Informationnelle,NON
+159,site pour réserver artiste,/site-pour-reserver-artiste,Spectateurs,Transactionnelle,Faible,Moyenne,2,Informationnelle,NON
+160,plateforme mise en relation artiste lieu,/plateforme-mise-en-relation-artiste-lieu,Artistes/Hôtes,Transactionnelle,Faible,Très faible,2,Informationnelle,NON
+161,proposer son lieu pour concert,/proposer-lieu-pour-concert,Hôtes,Transactionnelle,Faible,Très faible,2,Hôtes,NON
+162,mettre à disposition sa salle,/mettre-a-disposition-salle,Hôtes,Transactionnelle,Faible,Faible,2,Hôtes,NON
+163,accueillir expo chez soi,/accueillir-expo-chez-soi,Hôtes,Informationnelle,Très faible,Très faible,2,Hôtes,NON
+164,revenus hôte concert,/revenus-hote-concert,Hôtes,Informationnelle,Très faible,Très faible,2,Hôtes,NON
+165,artiste cherche lieu pour jouer,/artiste-cherche-lieu-pour-jouer,Artistes,Transactionnelle,Faible,Très faible,2,Artistes - Lieux,NON
+166,musicien cherche scène,/musicien-cherche-scene,Artistes,Transactionnelle,Faible,Faible,2,Artistes - Lieux,NON
+167,trouver des concerts,/trouver-des-concerts,Artistes,Transactionnelle,Moyen,Moyenne,2,Artistes - Lieux,NON
+168,comment se produire en concert,/comment-se-produire-en-concert,Artistes,Informationnelle,Faible,Faible,2,Artistes - Lieux,NON
+169,artiste indépendant trouver public,/artiste-independant-trouver-public,Artistes,Informationnelle,Faible,Très faible,2,Artistes - Lieux,NON
+170,développer sa carrière musicale,/developper-carriere-musicale,Artistes,Informationnelle,Faible,Moyenne,2,Artistes - Lieux,NON
+171,inscription artiste plateforme concert,/inscription-artiste-plateforme-concert,Artistes,Transactionnelle,Faible,Très faible,2,Artistes - Lieux,NON
+172,spectacle à domicile ile de france,/spectacle-a-domicile-ile-de-france,Spectateurs,Transactionnelle,Faible,Très faible,2,Spectacle à domicile,NON
+173,concert privé ile de france,/concert-prive-ile-de-france,Spectateurs,Transactionnelle,Faible,Très faible,2,Concerts intimes,NON
+174,spectacle pour crèche,/spectacle-pour-creche,Spectateurs,Transactionnelle,Faible,Faible,2,Occasions,NON
+175,spectacle pour école à domicile,/spectacle-ecole-a-domicile,Spectateurs,Transactionnelle,Faible,Très faible,2,Occasions,NON
+176,concert privé jardin,/concert-prive-jardin,Spectateurs,Transactionnelle,Faible,Très faible,2,Lieux,NON
+177,concert terrasse privée,/concert-terrasse-privee,Spectateurs,Transactionnelle,Faible,Très faible,2,Lieux,NON
+178,spectacle dans un loft,/spectacle-dans-un-loft,Spectateurs,Transactionnelle,Très faible,Très faible,2,Lieux,NON
+179,concert dans une cave,/concert-dans-une-cave,Spectateurs,Transactionnelle,Très faible,Très faible,2,Lieux,NON
+180,concert dans un atelier,/concert-dans-un-atelier,Spectateurs,Transactionnelle,Très faible,Très faible,2,Lieux,NON
+181,spectacle dans une galerie,/spectacle-dans-une-galerie,Spectateurs,Transactionnelle,Très faible,Très faible,2,Lieux,NON
+182,concert privé duo acoustique,/concert-prive-duo-acoustique,Spectateurs,Transactionnelle,Faible,Très faible,2,Artistes,NON
+183,trio jazz soirée privée,/trio-jazz-soiree-privee,Spectateurs,Transactionnelle,Faible,Faible,2,Artistes,NON
+184,quatuor cordes événement,/quatuor-cordes-evenement,Spectateurs,Transactionnelle,Faible,Faible,2,Artistes,NON
+185,saxophoniste pour soirée,/saxophoniste-pour-soiree,Spectateurs,Transactionnelle,Faible,Moyenne,2,Artistes,NON
+186,harpiste pour événement,/harpiste-pour-evenement,Spectateurs,Transactionnelle,Faible,Faible,2,Artistes,NON
+187,groupe soul pour événement,/groupe-soul-pour-evenement,Spectateurs,Transactionnelle,Faible,Très faible,2,Artistes,NON
+188,fanfare pour événement,/fanfare-pour-evenement,Spectateurs,Transactionnelle,Faible,Faible,2,Artistes,NON
+189,chorale pour événement,/chorale-pour-evenement,Spectateurs,Transactionnelle,Faible,Faible,2,Artistes,NON
+190,beat box live,/beat-box-live,Spectateurs,Transactionnelle,Faible,Très faible,2,Artistes,NON
+191,peinture live événement,/peinture-live-evenement,Spectateurs,Transactionnelle,Faible,Très faible,2,Artistes,NON
+192,spectacle de feu à domicile,/spectacle-feu-a-domicile,Spectateurs,Transactionnelle,Très faible,Très faible,1,Spectacle à domicile,NON
+193,concert privé demande en mariage,/concert-prive-demande-en-mariage,Spectateurs,Transactionnelle,Très faible,Très faible,1,Occasions,NON
+194,sérénades à domicile,/serenades-a-domicile,Spectateurs,Transactionnelle,Très faible,Très faible,1,Spectacle à domicile,NON
+195,musicien pour proposition,/musicien-pour-proposition,Spectateurs,Transactionnelle,Très faible,Très faible,1,Occasions,NON
+196,concert privé à domicile nice,/concert-prive-a-domicile-nice,Spectateurs,Transactionnelle,Très faible,Très faible,1,Spectacle à domicile,NON
+197,concert privé à domicile toulouse,/concert-prive-a-domicile-toulouse,Spectateurs,Transactionnelle,Très faible,Très faible,1,Spectacle à domicile,NON
+198,concert privé à domicile lille,/concert-prive-a-domicile-lille,Spectateurs,Transactionnelle,Très faible,Très faible,1,Spectacle à domicile,NON
+199,concert privé à domicile nantes,/concert-prive-a-domicile-nantes,Spectateurs,Transactionnelle,Très faible,Très faible,1,Spectacle à domicile,NON
+200,concert privé à domicile strasbourg,/concert-prive-a-domicile-strasbourg,Spectateurs,Transactionnelle,Très faible,Très faible,1,Spectacle à domicile,NON
+201,spectacle dans un jardin privé,/spectacle-jardin-prive,Spectateurs,Transactionnelle,Très faible,Très faible,1,Lieux,NON
+202,concert dans un château,/concert-dans-un-chateau,Spectateurs,Transactionnelle,Très faible,Très faible,1,Lieux,NON
+203,spectacle dans un garage,/spectacle-dans-un-garage,Spectateurs,Informationnelle,Très faible,Très faible,1,Lieux,NON
+204,concert bateau privé,/concert-bateau-prive,Spectateurs,Transactionnelle,Très faible,Très faible,1,Lieux,NON
+205,concert dans une église privé,/concert-eglise-prive,Spectateurs,Transactionnelle,Très faible,Très faible,1,Lieux,NON
+206,spectacle dans une ferme,/spectacle-dans-une-ferme,Spectateurs,Transactionnelle,Très faible,Très faible,1,Lieux,NON
+207,concert privé à domicile rennes,/concert-prive-a-domicile-rennes,Spectateurs,Transactionnelle,Très faible,Très faible,1,Spectacle à domicile,NON
+208,concert privé à domicile montpellier,/concert-prive-a-domicile-montpellier,Spectateurs,Transactionnelle,Très faible,Très faible,1,Spectacle à domicile,NON
