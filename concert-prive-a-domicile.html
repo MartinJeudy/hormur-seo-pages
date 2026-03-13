@@ -58,7 +58,7 @@
         <a href="https://hormur.com/projet?ville=&page=1&lat&lng&radius=50&maxPublic">Artistes</a>
         <a href="https://hormur.com/event">Événements</a>
         <a href="https://hormur.com/place?page=1&lat&lng&radius=50&minPublic">Lieux</a>
-        <a href="https://hormur.com/blog">Blog</a>
+        <a href="https://hormur.com/">Blog</a>
         <a href="https://hote.hormur.com" class="btn-secondary">Devenir hôte</a>
         <a href="https://hormur.com/signup" class="btn-primary">S'inscrire</a>
       </nav>
@@ -121,7 +121,7 @@
     <h2 class="section__title">Nos artistes pour vos concerts privés</h2>
     <p class="section__subtitle">Jazz, pop, classique, soul, chanson française… trouvez l'artiste parfait pour votre soirée.</p>
     <div class="cards-grid">
-        <a href="https://hormur.com/duo-acoustique" class="card" aria-label="Duo acoustique">
+        <a href="https://hormur.com/projet?q=acoustique" class="card" aria-label="Duo acoustique">
           <div class="card__img">🎵</div>
           <div class="card__body">
             <span class="card__tag">Spectacle à domicile</span>
@@ -129,7 +129,7 @@
             <p class="card__desc">Concert intimiste guitare-voix pour une ambiance chaleureuse</p>
           </div>
         </a>
-        <a href="https://hormur.com/pianiste-classique" class="card" aria-label="Pianiste classique">
+        <a href="https://hormur.com/projet?q=pianiste" class="card" aria-label="Pianiste classique">
           <div class="card__img">🎹</div>
           <div class="card__body">
             <span class="card__tag">Spectacle à domicile</span>
@@ -137,7 +137,7 @@
             <p class="card__desc">Récitals de piano dans votre salon pour un moment d'exception</p>
           </div>
         </a>
-        <a href="https://hormur.com/trio-jazz" class="card" aria-label="Trio jazz">
+        <a href="https://hormur.com/projet?q=jazz" class="card" aria-label="Trio jazz">
           <div class="card__img">🎷</div>
           <div class="card__body">
             <span class="card__tag">Spectacle à domicile</span>
@@ -145,7 +145,7 @@
             <p class="card__desc">Jazz live à domicile pour des soirées élégantes et conviviales</p>
           </div>
         </a>
-        <a href="https://hormur.com/chanteur-soul" class="card" aria-label="Chanteur soul">
+        <a href="https://hormur.com/projet?q=soul" class="card" aria-label="Chanteur soul">
           <div class="card__img">🎤</div>
           <div class="card__body">
             <span class="card__tag">Spectacle à domicile</span>
@@ -153,7 +153,7 @@
             <p class="card__desc">Une voix soul envoûtante pour des moments inoubliables</p>
           </div>
         </a>
-        <a href="https://hormur.com/groupe-pop-rock" class="card" aria-label="Groupe pop-rock">
+        <a href="https://hormur.com/projet?q=pop" class="card" aria-label="Groupe pop-rock">
           <div class="card__img">🎸</div>
           <div class="card__body">
             <span class="card__tag">Spectacle à domicile</span>
@@ -161,7 +161,7 @@
             <p class="card__desc">Énergie et bonne humeur pour vos fêtes entre amis</p>
           </div>
         </a>
-        <a href="https://hormur.com/quatuor-cordes" class="card" aria-label="Quatuor à cordes">
+        <a href="https://hormur.com/projet?q=quatuor" class="card" aria-label="Quatuor à cordes">
           <div class="card__img">🎻</div>
           <div class="card__body">
             <span class="card__tag">Spectacle à domicile</span>
@@ -262,10 +262,10 @@
     <div class="hormur-footer__inner">
       <div>
         <h4>Hormur</h4>
-        <a href="https://hormur.com/a-propos">À propos</a>
-        <a href="https://hormur.com/blog">Blog</a>
-        <a href="https://hormur.com/contact">Contact</a>
-        <a href="https://hormur.com/presse">Presse</a>
+        <a href="https://hormur.com/about-us">À propos</a>
+        <a href="https://hormur.com/">Blog</a>
+        <a href="mailto:contact@hormur.com">Contact</a>
+        <a href="mailto:contact@hormur.com">Presse</a>
       </div>
       <div>
         <h4>Spectateurs</h4>
@@ -276,8 +276,8 @@
       </div>
       <div>
         <h4>Artistes</h4>
-        <a href="https://artiste.hormur.com">Inscription artiste</a>
-        <a href="https://artiste.hormur.com/comment-ca-marche">Comment ça marche</a>
+        <a href="https://hormur.com/projet/new">Inscription artiste</a>
+        <a href="https://vivacious-phosphorus-9a9.notion.site/FAQ-pour-les-artistes-sur-Hormur-18f3052419ea80ce8d1ac4618dc25699">Comment ça marche</a>
         <a href="/trouver-artiste-evenement">Trouver des dates</a>
       </div>
       <div>
@@ -295,7 +295,7 @@
     </div>
     <div class="hormur-footer__bottom">
       <p>© 2026 Hormur — L'art où on ne l'attend pas. Tous droits réservés.</p>
-      <p style="margin-top:8px"><a href="https://hormur.com/mentions-legales">Mentions légales</a> · <a href="https://hormur.com/cgv">CGV</a> · <a href="https://hormur.com/confidentialite">Politique de confidentialité</a></p>
+      <p style="margin-top:8px"><a href="https://hormur.com/legal">Mentions légales</a> · <a href="https://hormur.com/conditions">CGV</a> · <a href="https://hormur.com/privacy">Politique de confidentialité</a></p>
     </div>
   </footer>
 
@@ -325,7 +325,7 @@
       const query = document.querySelector('.search-bar input[type="text"]').value;
       const city = document.querySelector('.search-bar select').value;
       if (query) {
-        window.location.href = 'https://hormur.com/recherche?q=' + encodeURIComponent(query) + '&ville=' + encodeURIComponent(city);
+        window.location.href = 'https://hormur.com/projet?q=' + encodeURIComponent(query) + '&ville=' + encodeURIComponent(city);
       }
     });
     document.querySelector('.search-bar input[type="text"]').addEventListener('keypress', function(e) {
