@@ -97,6 +97,60 @@
       grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
       gap: 20px;
     }
+    
+    /* Blog Card Styles for Index */
+    .blog-hub-card {
+      background: #fff;
+      border: 1px solid #ddd;
+      border-radius: 12px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      transition: transform 0.2s, box-shadow 0.2s;
+      text-decoration: none;
+      color: inherit;
+    }
+    .blog-hub-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+      border-color: #EE6553;
+    }
+    .blog-hub-image {
+      background: #fdf2f0;
+      height: 160px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 3rem;
+    }
+    .blog-hub-content {
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      flex-grow: 1;
+    }
+    .blog-hub-cat {
+      font-size: 0.8rem;
+      font-weight: bold;
+      color: #EE6553;
+      text-transform: uppercase;
+      margin-bottom: 8px;
+    }
+    .blog-hub-title {
+      font-size: 1.1rem;
+      font-weight: 700;
+      line-height: 1.4;
+      margin-bottom: 12px;
+      color: #1a1a2e;
+    }
+    .blog-hub-desc {
+      font-size: 0.95rem;
+      color: #555;
+      line-height: 1.5;
+      margin-bottom: 20px;
+      flex-grow: 1;
+    }
+
     .page-card {
       display: block;
       padding: 24px;
@@ -209,11 +263,13 @@
 
   <!-- CATEGORY NAV -->
   <nav class="cat-nav">
-        <a href="#concerts-prives-et-intimes" class="cat-link">Concerts privés & intimes (10)</a>
-    <a href="#spectacles-à-domicile" class="cat-link">Spectacles à domicile (8)</a>
-    <a href="#sorties-et-idees-culturelles" class="cat-link">Sorties & idées culturelles (5)</a>
-    <a href="#artistes-et-evenements" class="cat-link">Artistes & événements (5)</a>
-    <a href="#devenir-hote-et-lieux" class="cat-link">Devenir hôte & lieux (2)</a>
+    <a href="#spectacles-domicile" class="cat-link">Spectacles à domicile</a>
+    <a href="#concerts-prives" class="cat-link">Concerts privés</a>
+    <a href="#hotes" class="cat-link">Pour les hôtes</a>
+    <a href="#b2b" class="cat-link">Pour l'entreprise</a>
+    <a href="#artistes" class="cat-link">Pour les artistes</a>
+    <a href="#lieux" class="cat-link">Lieux atypiques</a>
+    <a href="#blog" class="cat-link" style="font-weight:bold; color:#EE6553;">Le Blog (Nouveau)</a>
   </nav>
 
   <!-- CATEGORIES -->
