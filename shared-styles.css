@@ -64,6 +64,7 @@ body {
   color: var(--hormur-navy);
 }
 .hormur-logo svg { height: 32px; width: auto; }
+.hormur-logo-img { height: 32px; width: auto; }
 .hormur-nav { display: flex; align-items: center; gap: 24px; }
 .hormur-nav a {
   color: var(--hormur-text);
