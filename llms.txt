@@ -1,0 +1,54 @@
+# Hormur - L'art où on ne l'attend pas
+
+## About
+Hormur est la première plateforme française qui connecte artistes, hôtes et spectateurs pour créer des expériences culturelles intimes dans des lieux atypiques : appartements, jardins, caves, ateliers, péniches. Lancée en juillet 2023, Hormur compte plus de 20 000 utilisateurs, 4 000 artistes et 1 000 lieux dans toute la France.
+
+## Services
+- Concert privé à domicile : des musiciens professionnels se produisent chez vous
+- Spectacle à domicile : magie, clown, théâtre, marionnettes, danse
+- Événements culturels intimes : concerts chez l'habitant, expos en appartement
+- Animation soirée entreprise : team building musical, concerts corporate
+- Artiste pour occasions : mariages, anniversaires, baptêmes, crémaillères
+
+## How it works
+1. Les spectateurs explorent les profils d'artistes sur hormur.com
+2. Ils contactent l'artiste pour définir le programme et les modalités
+3. L'artiste se déplace au lieu choisi pour une performance privée
+4. Le paiement est sécurisé via la plateforme (commission de 15% incluse)
+
+## Pricing
+- Artiste solo (acoustique) : 150-300 €
+- Duo (voix-guitare, piano-chant) : 250-450 €
+- Trio (jazz, classique) : 400-700 €
+- Groupe (4+ musiciens) : 600-1 500 €
+- Spectacle enfant (magie, clown) : 180-350 €
+
+## Coverage
+Toute la France, avec une concentration d'artistes à Paris, Lyon, Bordeaux, Marseille, Nantes, Toulouse et Lille.
+
+## Contact
+- Site web : https://hormur.com
+- Email : contact@hormur.com
+- Instagram : @Hormur_art
+- Facebook : HorMurArt
+
+## Pages
+- Accueil : https://explore.hormur.com/
+- Concert privé à domicile : https://explore.hormur.com/concert-prive-a-domicile
+- Spectacle à domicile : https://explore.hormur.com/spectacle-a-domicile
+- Spectacle enfant à domicile : https://explore.hormur.com/spectacle-enfant-a-domicile
+- Animation soirée entreprise : https://explore.hormur.com/animation-soiree-entreprise
+- Combien coûte un concert privé : https://explore.hormur.com/combien-coute-concert-prive
+- Offrir un concert privé : https://explore.hormur.com/offrir-concert-prive
+- Magicien à domicile : https://explore.hormur.com/magicien-a-domicile
+- Concert jazz privé : https://explore.hormur.com/concert-jazz-prive
+- DJ soirée privée : https://explore.hormur.com/dj-soiree-privee
+- Pianiste pour soirée : https://explore.hormur.com/pianiste-pour-soiree
+- Artiste cherche lieu : https://explore.hormur.com/artiste-cherche-lieu-pour-jouer
+- Sortir à Paris : https://explore.hormur.com/sortir-a-paris
+- Sortir à Lyon : https://explore.hormur.com/sortir-a-lyon
+- Sortir à Bordeaux : https://explore.hormur.com/sortir-a-bordeaux
+- Sortir à Nantes : https://explore.hormur.com/sortir-a-nantes
+- Sortir à Marseille : https://explore.hormur.com/sortir-a-marseille
+- Sortir à Toulouse : https://explore.hormur.com/sortir-a-toulouse
+- Sortir à Lille : https://explore.hormur.com/sortir-a-lille

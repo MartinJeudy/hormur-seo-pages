@@ -6,7 +6,7 @@
   <title>Spectacle à Domicile | Artistes chez Vous | Hormur</title>
   <link rel="icon" type="image/png" href="https://hormur.com/favicon-hormur.png">
 
-  <meta name="description" content="Spectacle à domicile avec Hormur : musique, magie, clown, théâtre, marionnettes. Des artistes se déplacent chez vous.">
+  <meta name="description" content="Réservez un spectacle à domicile avec Hormur : musique, magia, clown, théâtre chez vous. +4 000 artistes vérifiés dans toute la France. Dès 150 €.">
   <link rel="canonical" href="https://explore.hormur.com/spectacle-a-domicile">
 
   <!-- Open Graph -->
@@ -41,8 +41,29 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://explore.hormur.com/"},
+      {"@type": "ListItem", "position": 2, "name": "Spectacle à domicile", "item": "https://explore.hormur.com/spectacle-a-domicile"}
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Spectacle à domicile",
+    "provider": {"@type": "Organization", "name": "Hormur", "url": "https://hormur.com"},
+    "description": "Réservez un artiste pour un spectacle privé à domicile : musique, magie, clown, théâtre, marionnettes. Des artistes professionnels se déplacent chez vous partout en France.",
+    "areaServed": {"@type": "Country", "name": "France"},
+    "serviceType": "Spectacle vivant à domicile"
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
     "@type": "FAQPage",
-    "mainEntity": [{"@type":"Question","name":"Quels types de spectacles peut-on réserver à domicile ?","acceptedAnswer":{"@type":"Answer","text":"Sur Hormur, vous trouverez des musiciens, magiciens, clowns, comédiens, marionnettistes, danseurs, conteurs, et bien d'autres artistes du spectacle vivant."}},{"@type":"Question","name":"Pour quel type d'événement réserver un spectacle à domicile ?","acceptedAnswer":{"@type":"Answer","text":"Anniversaires, fêtes de famille, crémaillères, baby showers, Noël, soirées entre amis… Toutes les occasions sont bonnes pour accueillir un artiste chez soi !"}},{"@type":"Question","name":"L'artiste apporte-t-il son matériel ?","acceptedAnswer":{"@type":"Answer","text":"Oui, la grande majorité des artistes sur Hormur sont autonomes. Ils précisent sur leur profil les éventuels besoins (espace minimum, prise électrique…)."}},{"@type":"Question","name":"Peut-on réserver un spectacle pour enfants ?","acceptedAnswer":{"@type":"Answer","text":"Absolument ! De nombreux artistes sur Hormur proposent des spectacles adaptés aux enfants : magie, clown, marionnettes, contes musicaux…"}}]
+    "mainEntity": [{"@type":"Question","name":"Quels types de spectacles peut-on réserver à domicile ?","acceptedAnswer":{"@type":"Answer","text":"Sur Hormur, vous trouverez des musiciens, magiciens, clowns, comédiens, marionnettistes, danseurs, conteurs, et bien d'autres artistes du spectacle vivant. Chaque artiste possède un profil détaillé avec des vidéos de ses performances, ses tarifs, et les avis des spectateurs qui l'ont déjà accueilli. Vous pouvez filtrer par genre musical, style de spectacle, ou type de magie pour trouver exactement ce qui correspond à votre événement."}},{"@type":"Question","name":"Pour quel type d'événement réserver un spectacle à domicile ?","acceptedAnswer":{"@type":"Answer","text":"Anniversaires, fêtes de famille, crémaillères, baby showers, Noël, soirées entre amis… Toutes les occasions sont bonnes pour accueillir un artiste chez soi ! Que ce soit pour célébrer un enfant qui souffle ses bougies, fêter une promotion, inaugurer un nouvel appartement, ou simplement réunir des amis autour d'une soirée culturelle, Hormur vous aide à trouver l'artiste idéal."}},{"@type":"Question","name":"L'artiste apporte-t-il son matériel ?","acceptedAnswer":{"@type":"Answer","text":"Oui, la grande majorité des artistes sur Hormur sont autonomes et apportent leur propre matériel. Ils précisent sur leur profil les éventuels besoins spécifiques : espace minimum requis, prise électrique, accès à internet pour une playlist, etc. Avant de finaliser votre réservation, vous pouvez directement échanger avec l'artiste pour discuter des détails techniques et des contraintes de votre espace."}},{"@type":"Question","name":"Peut-on réserver un spectacle pour enfants ?","acceptedAnswer":{"@type":"Answer","text":"Absolument ! De nombreux artistes sur Hormur proposent des spectacles spécifiquement adaptés aux enfants : magie interactive, clown, marionnettes, contes musicaux, ateliers créatifs, etc. Vous pouvez filtrer par catégorie « jeune public » et consulter les avis d'autres familles qui ont réservé. Les artistes sont habitués à adapter leur performance en fonction de l'âge des enfants."}},{"@type":"Question","name":"Combien coûte un spectacle à domicile ?","acceptedAnswer":{"@type":"Answer","text":"Les tarifs varient selon le type d'artiste et la durée du spectacle. Un artiste solo (musicien, conteur, clown) coûte généralement entre 150 et 300 €. Pour un duo ou un spectacle plus élaboré, comptez 250 à 450 €. Les spectacles de groupe (troupe de théâtre, band complète) se situent entre 400 et 800 €. Tous les tarifs sont transparents sur les profils des artistes, et vous pouvez négocier directement avec eux."}},{"@type":"Question","name":"Comment choisir le bon artiste ?","acceptedAnswer":{"@type":"Answer","text":"Parcourez les profils détaillés des artistes en filtrant par type de spectacle, style ou localisation. Regardez les vidéos de leurs performances, lisez les avis et notes laissés par d'autres spectateurs. Vous pouvez également consulter leur portfolio et poser vos questions directement avant de confirmer la réservation. Hormur recommande de prendre le temps de vérifier que l'artiste correspond vraiment à vos attentes et à l'ambiance que vous souhaitez créer."}}]
   }
   </script>
 
@@ -66,6 +87,14 @@
       </nav>
     </div>
   </header>
+
+  <!-- BREADCRUMBS -->
+  <nav class="breadcrumbs" aria-label="Fil d'Ariane">
+    <div class="breadcrumbs__inner">
+      <a href="https://explore.hormur.com/">Accueil</a><span>›</span>
+      <strong>Spectacle à domicile</strong>
+    </div>
+  </nav>
 
   <!-- HERO -->
   <section class="hero">
@@ -166,7 +195,93 @@
         </a>
     </div>
   </section>
-  
+
+  <!-- GUIDE SECTION -->
+  <section class="guide-section">
+    <div class="guide-section__inner">
+      <h2>Spectacle à domicile : quand l'art entre chez vous</h2>
+
+      <p>Un spectacle à domicile, c'est bien plus qu'une simple prestation musicale ou théâtrale enfermée dans les quatre murs de votre salon. C'est l'instant où le public disparaît, où les codes des salles conventionnelles s'effacent, et où l'intimité devient une force créatrice. Que vous accueilliez un musicien qui déploiera sa guitare à quelques mètres de vous, un magicien qui créera l'émerveillement à portée de main, ou un comédien qui incarnera l'émotion sur votre propre canapé, vous vivrez une expérience profondément différente des spectacles de masse.</p>
+
+      <p>Pourquoi cette formule a-t-elle le vent en poupe aujourd'hui ? Bien sûr, les trois années de confinement y ont contribué en redécouvrant l'attrait des événements à échelle humaine. Mais la vraie raison dépasse largement ce contexte. Nous assistons à un véritable ras-le-bol collectif envers les salles de concert étriquées, les théâtres froids, les files d'attente infinies. Les gens en ont assez de consommer la culture comme on consomme un produit de grande surface. Le spectacle à domicile répond à cette fatigue : c'est un acte délibéré, un choix de qualité sur la quantité, une célébration intime de l'art.</p>
+
+      <h3>Hormur : l'art à portée de main</h3>
+
+      <p>Depuis son lancement, Hormur s'est donné une mission simple : démocratiser cet accès. Dès lors que vous avez un espace suffisant et une envie de créer un moment magique, vous pouvez accueillir un artiste professionnel. La plateforme fédère plusieurs milliers d'artistes vérifiés : musiciens solos, petits ensembles, magiciens, clowns, comédiens, danseurs, marionnettistes. Tous ont accepté de se déplacer chez les particuliers, et tous sont évalués par les spectateurs qui les ont déjà accueillis. C'est cette transparence qui change tout. Vous ne réservez pas sur parole, vous réservez sur le fondement d'avis authentiques et de vidéos réelles.</p>
+
+      <p>La souplesse est au cœur du modèle. Vous discutez directement avec l'artiste pour adapter la prestation à votre événement, votre public, votre espace. Anniversaire d'enfant qui a besoin de rires ? Soirée corporate qui demande de l'élégance musicale ? Fête de famille en quête de nostalgie ? Il y a un artiste pour chaque vision, chaque budget, chaque occasion.</p>
+
+      <h3>Quel artiste pour quel spectacle ?</h3>
+
+      <p>Parcourir Hormur, c'est découvrir une diversité rarement vue rassemblée au même endroit. Voici un aperçu des principaux univers artistiques disponibles :</p>
+
+      <table class="comparison-table">
+        <thead>
+          <tr>
+            <th>Type de spectacle</th>
+            <th>Durée typique</th>
+            <th>Public idéal</th>
+            <th>Budget estimé</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Musique & Concert</strong></td>
+            <td>45 min - 2h</td>
+            <td>Tous publics, du jazz au rock</td>
+            <td>150€ - 500€</td>
+          </tr>
+          <tr>
+            <td><strong>Magie</strong></td>
+            <td>30 min - 1h30</td>
+            <td>Enfants, famille, soirée amis</td>
+            <td>150€ - 400€</td>
+          </tr>
+          <tr>
+            <td><strong>Clown & Humour</strong></td>
+            <td>30 min - 1h</td>
+            <td>Enfants en priorité</td>
+            <td>120€ - 300€</td>
+          </tr>
+          <tr>
+            <td><strong>Théâtre & Monologues</strong></td>
+            <td>45 min - 1h30</td>
+            <td>Adultes, soirées amis</td>
+            <td>200€ - 600€</td>
+          </tr>
+          <tr>
+            <td><strong>Danse (contemporain, classique)</strong></td>
+            <td>20 min - 1h</td>
+            <td>Tous publics, événements chic</td>
+            <td>250€ - 700€</td>
+          </tr>
+          <tr>
+            <td><strong>Marionnettes & Contes</strong></td>
+            <td>25 min - 45 min</td>
+            <td>Jeune public (3-10 ans)</td>
+            <td>100€ - 250€</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <div style="background: #f0f8ff; padding: 20px; border-radius: 8px; margin: 30px 0; border-left: 4px solid #0066cc;">
+        <p style="margin: 0; font-size: 14px;"><strong>📊 Le chiffre du moment</strong></p>
+        <p style="margin: 5px 0 0 0; font-weight: 600; font-size: 16px;">En 2025, plus de 2 000 spectacles à domicile ont été organisés via Hormur à travers la France.</p>
+      </div>
+
+      <h3>Qui accueille ? Qui se déplace ?</h3>
+
+      <p>Il n'y a pas de profil type du spectateur Hormur. Bien sûr, les parents qui fêtent l'anniversaire de leur enfant représentent une part importante. Mais on trouve aussi des couples qui célèbrent leurs 30 ans de mariage, des entreprises qui remercient leurs salariés d'une façon mémorable, des crémaillères entre amis, des baby-showers, des événements caritatifs. Chaque réservation raconte une histoire différente.</p>
+
+      <p>Quant aux artistes, ce sont des professionnels qui ont choisi cette liberté. Certains l'utilisent comme revenu principal, d'autres comme complément pour vivre de leur art. Tous partagent une qualité essentielle : le goût du partage intime, la capacité à ajuster leur prestation à un petit groupe, et l'amour du métier — car on ne se déplace pas chez des inconnus juste pour l'argent.</p>
+
+      <h3>L'expérience Olivier : un hôte de Hormur</h3>
+
+      <p>« C'est pour les 40 ans de ma femme qu'on a pensé à Hormur. On voulait quelque chose de différent, une vraie surprise. On a réservé un accordéoniste avec la spécialité des chansons françaises classiques. Quand il a commencé à jouer dans notre salon, l'émotion était palpable — tous les amis, ma femme les larmes aux yeux. Ensuite, pendant le reste de la soirée, le disque de l'accordéoniste jouait en fond, les gens continuaient à chanter. C'est devenu le point culminant de la soirée. On n'aurait jamais eu ça dans une salle de concert ordinaire. Franchement, on réserve d'ores et déjà quelqu'un pour l'année prochaine. » — Olivier, Paris</p>
+
+    </div>
+  </section>
+
   <div class="section--gray">
     <section class="section">
       <h2 class="section__title">Comment ça marche ?</h2>
@@ -210,7 +325,15 @@
       </details>
       <details class="faq-item">
         <summary>Peut-on réserver un spectacle pour enfants ?</summary>
-        <p>Absolument ! De nombreux artistes sur Hormur proposent des spectacles adaptés aux enfants : magie, clown, marionnettes, contes musicaux…</p>
+        <p>Absolument ! De nombreux artistes sur Hormur proposent des spectacles spécifiquement adaptés aux enfants : magie interactive, clown, marionnettes, contes musicaux, ateliers créatifs, etc. Vous pouvez filtrer par catégorie « jeune public » et consulter les avis d'autres familles qui ont réservé. Les artistes sont habitués à adapter leur performance en fonction de l'âge des enfants.</p>
+      </details>
+      <details class="faq-item">
+        <summary>Combien coûte un spectacle à domicile ?</summary>
+        <p>Les tarifs varient selon le type d'artiste et la durée du spectacle. Un artiste solo (musicien, conteur, clown) coûte généralement entre 150 et 300 €. Pour un duo ou un spectacle plus élaboré, comptez 250 à 450 €. Les spectacles de groupe (troupe de théâtre, band complète) se situent entre 400 et 800 €. Tous les tarifs sont transparents sur les profils des artistes, et vous pouvez négocier directement avec eux.</p>
+      </details>
+      <details class="faq-item">
+        <summary>Comment choisir le bon artiste ?</summary>
+        <p>Parcourez les profils détaillés des artistes en filtrant par type de spectacle, style ou localisation. Regardez les vidéos de leurs performances, lisez les avis et notes laissés par d'autres spectateurs. Vous pouvez également consulter leur portfolio et poser vos questions directement avant de confirmer la réservation. Hormur recommande de prendre le temps de vérifier que l'artiste correspond vraiment à vos attentes et à l'ambiance que vous souhaitez créer.</p>
       </details>
     </div>
   </section>

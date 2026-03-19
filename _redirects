@@ -1,4 +1,50 @@
 # Netlify redirects - Clean URLs (sans .html)
+
+# New pages
+/spectacle-enfant-a-domicile    /spectacle-enfant-a-domicile.html    200
+/animation-soiree-entreprise    /animation-soiree-entreprise.html    200
+/combien-coute-concert-prive    /combien-coute-concert-prive.html    200
+/offrir-concert-prive    /offrir-concert-prive.html    200
+/magicien-a-domicile    /magicien-a-domicile.html    200
+/concert-jazz-prive    /concert-jazz-prive.html    200
+/dj-soiree-privee    /dj-soiree-privee.html    200
+/pianiste-pour-soiree    /pianiste-pour-soiree.html    200
+/artiste-cherche-lieu-pour-jouer    /artiste-cherche-lieu-pour-jouer.html    200
+/sortir-a-bordeaux    /sortir-a-bordeaux.html    200
+/sortir-a-marseille    /sortir-a-marseille.html    200
+/sortir-a-toulouse    /sortir-a-toulouse.html    200
+/sortir-a-nantes    /sortir-a-nantes.html    200
+/sortir-a-lille    /sortir-a-lille.html    200
+/spectacle-a-domicile-anniversaire    /spectacle-a-domicile-anniversaire.html    200
+
+# Blog pages
+/blog/guide-organiser-un-concert-prive-chez-soi    /blog/guide-organiser-un-concert-prive-chez-soi.html    200
+/blog/pourquoi-offrir-spectacle-a-domicile-anniversaire    /blog/pourquoi-offrir-spectacle-a-domicile-anniversaire.html    200
+/blog/artistes-comment-trouver-des-lieux-pour-jouer    /blog/artistes-comment-trouver-des-lieux-pour-jouer.html    200
+/blog/top-lieux-atypiques-paris-evenement-soiree    /blog/top-lieux-atypiques-paris-evenement-soiree.html    200
+
+# Common typos and variations
+/concert-prive-domicile    /concert-prive-a-domicile.html    301
+/concert-a-domicile    /concert-prive-a-domicile.html    301
+/spectacle-domicile    /spectacle-a-domicile.html    301
+/sortir-paris    /sortir-a-paris.html    301
+/sortir-lyon    /sortir-a-lyon.html    301
+/sortir-bordeaux    /sortir-a-bordeaux.html    301
+/sortir-marseille    /sortir-a-marseille.html    301
+/sortir-toulouse    /sortir-a-toulouse.html    301
+/sortir-nantes    /sortir-a-nantes.html    301
+/sortir-lille    /sortir-a-lille.html    301
+/concert-prive    /concert-prive-a-domicile.html    301
+/spectacle-prive    /spectacle-a-domicile.html    301
+/magicien-domicile    /magicien-a-domicile.html    301
+/pianiste-soiree    /pianiste-pour-soiree.html    301
+/dj-prive    /dj-soiree-privee.html    301
+/jazz-prive    /concert-jazz-prive.html    301
+/artiste-domicile    /concert-prive-a-domicile.html    301
+/musicien-domicile    /musicien-soiree-privee.html    301
+/organiser-spectacle-domicile    /organiser-concert-chez-soi.html    301
+
+# Original clean URL redirects
 /concert-prive-a-domicile    /concert-prive-a-domicile.html    200
 /spectacle-a-domicile    /spectacle-a-domicile.html    200
 /sortir-a-paris    /sortir-a-paris.html    200
