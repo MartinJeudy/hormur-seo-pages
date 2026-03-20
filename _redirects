@@ -17,6 +17,20 @@
 /sortir-a-lille    /sortir-a-lille.html    200
 /spectacle-a-domicile-anniversaire    /spectacle-a-domicile-anniversaire.html    200
 
+# New pages - Mars 2026
+/sortir-a-nice    /sortir-a-nice.html    200
+/sortir-a-strasbourg    /sortir-a-strasbourg.html    200
+/sortir-a-montpellier    /sortir-a-montpellier.html    200
+/sortir-a-rennes    /sortir-a-rennes.html    200
+/concert-pop-rock-prive    /concert-pop-rock-prive.html    200
+/concert-classique-salon    /concert-classique-salon.html    200
+/spectacle-mariage    /spectacle-mariage.html    200
+/team-building-musical    /team-building-musical.html    200
+/chanteur-pour-evenement    /chanteur-pour-evenement.html    200
+/groupe-musique-soiree-privee-paris    /groupe-musique-soiree-privee-paris.html    200
+/theatre-a-domicile    /theatre-a-domicile.html    200
+/spectacle-humour-a-domicile    /spectacle-humour-a-domicile.html    200
+
 # Blog pages
 /blog/guide-organiser-un-concert-prive-chez-soi    /blog/guide-organiser-un-concert-prive-chez-soi.html    200
 /blog/pourquoi-offrir-spectacle-a-domicile-anniversaire    /blog/pourquoi-offrir-spectacle-a-domicile-anniversaire.html    200
@@ -43,6 +57,18 @@
 /artiste-domicile    /concert-prive-a-domicile.html    301
 /musicien-domicile    /musicien-soiree-privee.html    301
 /organiser-spectacle-domicile    /organiser-concert-chez-soi.html    301
+/sortir-nice    /sortir-a-nice.html    301
+/sortir-strasbourg    /sortir-a-strasbourg.html    301
+/sortir-montpellier    /sortir-a-montpellier.html    301
+/sortir-rennes    /sortir-a-rennes.html    301
+/concert-rock-prive    /concert-pop-rock-prive.html    301
+/concert-classique-prive    /concert-classique-salon.html    301
+/theatre-domicile    /theatre-a-domicile.html    301
+/humour-a-domicile    /spectacle-humour-a-domicile.html    301
+/team-building-musique    /team-building-musical.html    301
+/chanteur-evenement    /chanteur-pour-evenement.html    301
+/groupe-musique-paris    /groupe-musique-soiree-privee-paris.html    301
+/spectacle-pour-mariage    /spectacle-mariage.html    301
 
 # Original clean URL redirects
 /concert-prive-a-domicile    /concert-prive-a-domicile.html    200
