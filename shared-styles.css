@@ -673,89 +673,102 @@ body {
 .guide-section {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: 64px 24px;
+  padding: 80px 24px;
 }
 .guide-section__inner {
-  max-width: 800px;
+  max-width: 850px;
   margin: 0 auto;
+  background: var(--hormur-white);
+  padding: 56px 64px;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  border: 1px solid rgba(0,0,0,0.04);
 }
 .guide-section h2 {
   font-family: var(--font-heading);
-  font-size: clamp(1.4rem, 2.5vw, 1.9rem);
+  font-size: clamp(1.8rem, 3.5vw, 2.5rem);
   color: var(--hormur-navy);
-  margin-bottom: 20px;
-  line-height: 1.3;
+  margin-bottom: 24px;
+  line-height: 1.25;
+  text-align: center;
 }
 .guide-section h3 {
-  font-size: 1.15rem;
+  font-size: 1.3rem;
   font-weight: 700;
   color: var(--hormur-navy);
-  margin-top: 32px;
-  margin-bottom: 12px;
+  margin-top: 48px;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid var(--hormur-peach-light);
 }
 .guide-section p {
-  font-size: 1.05rem;
-  line-height: 1.75;
+  font-size: 1.1rem;
+  line-height: 1.8;
   color: var(--hormur-text);
-  margin-bottom: 20px;
+  margin-bottom: 24px;
 }
 .guide-section ul, .guide-section ol {
   padding-left: 24px;
-  margin-bottom: 20px;
+  margin-bottom: 24px;
 }
 .guide-section li {
-  font-size: 1rem;
-  line-height: 1.7;
+  font-size: 1.05rem;
+  line-height: 1.8;
   color: var(--hormur-text);
-  margin-bottom: 8px;
+  margin-bottom: 10px;
 }
 
 /* ===== INFO BOX ===== */
 .info-box {
   background: var(--hormur-peach-light);
   border-left: 4px solid var(--hormur-coral);
-  border-radius: 0 var(--radius) var(--radius) 0;
-  padding: 20px 24px;
-  margin: 24px 0;
+  border-radius: var(--radius-sm);
+  padding: 24px 32px;
+  margin: 32px 0;
+  box-shadow: var(--shadow-sm);
 }
 .info-box p {
   margin-bottom: 0;
-  font-size: 0.95rem;
-  color: var(--hormur-text);
+  font-size: 1.05rem;
+  color: var(--hormur-navy);
+  line-height: 1.7;
 }
 .info-box strong {
   color: var(--hormur-coral);
+  font-weight: 700;
 }
 
 /* ===== COMPARISON TABLE ===== */
 .comparison-table {
   width: 100%;
   border-collapse: collapse;
-  margin: 24px 0;
-  font-size: 0.95rem;
-  border-radius: var(--radius);
+  margin: 32px 0;
+  font-size: 1rem;
+  border-radius: var(--radius-sm);
   overflow: hidden;
-  box-shadow: var(--shadow);
+  box-shadow: var(--shadow-sm);
+  background: var(--hormur-white);
+  border: 1px solid var(--hormur-border);
 }
 .comparison-table thead {
-  background: var(--hormur-navy);
+  background: var(--hormur-navy-dark);
   color: white;
 }
 .comparison-table th {
-  padding: 14px 16px;
+  padding: 16px 20px;
   text-align: left;
-  font-weight: 700;
-  font-size: 0.85rem;
+  font-weight: 600;
+  font-size: 0.9rem;
   text-transform: uppercase;
-  letter-spacing: 0.3px;
+  letter-spacing: 0.5px;
 }
 .comparison-table td {
-  padding: 12px 16px;
+  padding: 16px 20px;
   border-bottom: 1px solid var(--hormur-border);
   color: var(--hormur-text);
 }
 .comparison-table tbody tr:nth-child(even) {
-  background: rgba(245,163,152,0.06);
+  background: rgba(245,163,152,0.03);
 }
 .comparison-table tbody tr:hover {
   background: var(--hormur-peach-light);
@@ -805,9 +818,10 @@ body {
 .breadcrumbs {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: 12px 24px;
-  font-size: 0.8rem;
+  padding: 16px 24px;
+  font-size: 0.85rem;
   color: var(--hormur-text-light);
+  font-weight: 500;
 }
 .breadcrumbs a {
   color: var(--hormur-text-light);
@@ -818,41 +832,46 @@ body {
   color: var(--hormur-coral);
 }
 .breadcrumbs span {
-  margin: 0 6px;
-  opacity: 0.5;
+  margin: 0 8px;
+  opacity: 0.4;
 }
 
 /* ===== TESTIMONIAL ===== */
 .testimonial {
   background: var(--hormur-white);
   border-radius: var(--radius);
-  padding: 24px 28px;
-  margin: 24px 0;
+  padding: 32px 40px;
+  margin: 40px 0;
   box-shadow: var(--shadow);
   position: relative;
+  border: 1px solid rgba(0,0,0,0.03);
 }
 .testimonial::before {
   content: '"';
   font-family: var(--font-heading);
-  font-size: 4rem;
+  font-size: 5rem;
   color: var(--hormur-peach);
   position: absolute;
-  top: -8px;
-  left: 16px;
+  top: -12px;
+  left: 20px;
   line-height: 1;
+  opacity: 0.5;
 }
 .testimonial p {
   font-style: italic;
-  color: var(--hormur-text);
-  margin-bottom: 12px;
-  padding-left: 24px;
+  font-size: 1.15rem;
+  color: var(--hormur-navy);
+  margin-bottom: 16px;
+  padding-left: 32px;
+  line-height: 1.6;
 }
 .testimonial cite {
   display: block;
-  font-size: 0.85rem;
-  color: var(--hormur-text-light);
+  font-size: 0.95rem;
+  color: var(--hormur-coral);
+  font-weight: 700;
   font-style: normal;
-  padding-left: 24px;
+  padding-left: 32px;
 }
 
 /* ===== STATS BAR ===== */
